@@ -1,0 +1,1 @@
+ @extends('layouts.app') @section('title', 'Coming Soon') @section('content') <div class="text-center py-5"> <i class="bi bi-hourglass-split fs-1 text-muted"></i> <h4 class="mt-3">This module is coming soon</h4> <p class="text-muted">We're still building this part of the app.</p> </div> @endsection
